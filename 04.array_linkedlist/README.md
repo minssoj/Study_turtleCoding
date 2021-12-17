@@ -1,4 +1,4 @@
-practice
+# [Notion](https://modulabs.notion.site/03-a8a029c0817f4589af5eb21b9539eb29)
 
 09 - 민소 
 
