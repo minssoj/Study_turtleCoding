@@ -33,4 +33,4 @@ AIFFEL 새싹, MLDL 코딩스터디
 * 
 
 ## Member
-[김국진](https://github.com/neverparadise), [김성연](https://github.com/yeonkkk), [박진우](), [안가영](https://github.com/ga0808/), [이세현](https://github.com/qsdcfd), [이원재](https://github.com/peter1505), [이호진](https://github.com/ghwlsdl), [정강민](https://github.com/Raziel-JKM), [정민소](https://github.com/minssoj/), [조해창](https://github.com/SunCreation)
+[김국진](https://github.com/neverparadise), [김성연](https://github.com/yeonkkk), [박진우](https://github.com/PJINU), [안가영](https://github.com/ga0808/), [이세현](https://github.com/qsdcfd), [이원재](https://github.com/peter1505), [이호진](https://github.com/ghwlsdl), [정강민](https://github.com/Raziel-JKM), [정민소](https://github.com/minssoj/), [조해창](https://github.com/SunCreation)
