@@ -1,3 +1,6 @@
+![거북이-코딩-001](https://user-images.githubusercontent.com/88660886/147899803-46ece4a8-d450-4a0f-8768-1ef8c3b73667.jpg)
+
+
 # Study_turtleCoding
 AIFFEL 새싹, MLDL 코딩스터디 
 
