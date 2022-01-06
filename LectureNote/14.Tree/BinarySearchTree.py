@@ -220,20 +220,17 @@ class BinarySearchTree:
     # * Traversal : BFT
     def breadth_first_traversal(self):
         checked_node_list = []
-        # 루트 노드 방문
         queue = deque([self.root])
         
         while queue:
-            # 방문했으니 루트 노드 먼저 pop하고 append
             for item in queue:
                 print(item, end=" ")
             print()
             node = queue.popleft() 
             checked_node_list.append(node)
-            # 자식 노드들을 큐에 넣는다
-            if node.left: # 왼쪽 자식노드가 존재하면
+            if node.left: 
                 queue.append(node.left)
-            if node.right: # 오른쪽 자식노드가 존재하면
+            if node.right: 
                 queue.append(node.right)
         return checked_node_list
    
